@@ -1,0 +1,14 @@
+body{
+    background: #fcfafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+   
+  
+  }
+  *{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
